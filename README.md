@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/nalini-j/Leetcode/tree/master/0035-search-insert-position) |
+| [0229-majority-element-ii](https://github.com/nalini-j/Leetcode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nalini-j/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [2404-most-frequent-even-element](https://github.com/nalini-j/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/nalini-j/Leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -33,9 +34,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/nalini-j/Leetcode/tree/master/0229-majority-element-ii) |
 | [2404-most-frequent-even-element](https://github.com/nalini-j/Leetcode/tree/master/2404-most-frequent-even-element) |
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/nalini-j/Leetcode/tree/master/0229-majority-element-ii) |
 | [2404-most-frequent-even-element](https://github.com/nalini-j/Leetcode/tree/master/2404-most-frequent-even-element) |
+## Sorting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/nalini-j/Leetcode/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/nalini-j/Leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
