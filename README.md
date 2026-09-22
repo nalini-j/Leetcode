@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/nalini-j/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [3498-reverse-degree-of-a-string](https://github.com/nalini-j/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
