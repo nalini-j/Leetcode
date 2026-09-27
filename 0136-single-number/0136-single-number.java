@@ -1,6 +1,6 @@
 class Solution {
     public int singleNumber(int[] nums) {
-        if(nums.length==1){
+        /*if(nums.length==1){
             return nums[0];
         }
         Arrays.sort(nums);
@@ -9,6 +9,12 @@ class Solution {
                 return nums[i];
             }
         }
-        return nums[nums.length-1];
+        return nums[nums.length-1];*/
+
+        int ans=0;
+        for(int num:nums){
+            ans^=num;
+        }
+        return ans;
     }
 }
