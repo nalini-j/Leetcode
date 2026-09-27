@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/nalini-j/Leetcode/tree/master/0035-search-insert-position) |
+| [0136-single-number](https://github.com/nalini-j/Leetcode/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nalini-j/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/nalini-j/Leetcode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nalini-j/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -77,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nalini-j/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/nalini-j/Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
