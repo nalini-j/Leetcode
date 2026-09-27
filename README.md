@@ -77,9 +77,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/nalini-j/Leetcode/tree/master/0231-power-of-two) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nalini-j/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/nalini-j/Leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/nalini-j/Leetcode/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/nalini-j/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
