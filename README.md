@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/nalini-j/Leetcode/tree/master/0231-power-of-two) |
+| [0292-nim-game](https://github.com/nalini-j/Leetcode/tree/master/0292-nim-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nalini-j/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Bit Manipulation
 |  |
@@ -105,4 +106,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/nalini-j/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/nalini-j/Leetcode/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/nalini-j/Leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/nalini-j/Leetcode/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/nalini-j/Leetcode/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/nalini-j/Leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
