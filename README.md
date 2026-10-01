@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/nalini-j/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0888-fair-candy-swap](https://github.com/nalini-j/Leetcode/tree/master/0888-fair-candy-swap) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/nalini-j/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/nalini-j/Leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/nalini-j/Leetcode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/nalini-j/Leetcode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2404-most-frequent-even-element](https://github.com/nalini-j/Leetcode/tree/master/2404-most-frequent-even-element) |
