@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/nalini-j/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/nalini-j/Leetcode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nalini-j/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/nalini-j/Leetcode/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Binary Search
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/nalini-j/Leetcode/tree/master/0292-nim-game) |
 | [1486-xor-operation-in-an-array](https://github.com/nalini-j/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nalini-j/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/nalini-j/Leetcode/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -139,4 +141,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/nalini-j/Leetcode/tree/master/0338-counting-bits) |
+## Enumeration
+|  |
+| ------- |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/nalini-j/Leetcode/tree/master/4010-maximize-pair-strength-using-gcd) |
+## Number Theory
+|  |
+| ------- |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/nalini-j/Leetcode/tree/master/4010-maximize-pair-strength-using-gcd) |
 <!---LeetCode Topics End-->
