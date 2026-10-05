@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/nalini-j/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/nalini-j/Leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/nalini-j/Leetcode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/nalini-j/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/nalini-j/Leetcode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2404-most-frequent-even-element](https://github.com/nalini-j/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/nalini-j/Leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -149,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/nalini-j/Leetcode/tree/master/4010-maximize-pair-strength-using-gcd) |
+## Greedy
+|  |
+| ------- |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/nalini-j/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 <!---LeetCode Topics End-->
