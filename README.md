@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/nalini-j/Leetcode/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/nalini-j/Leetcode/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/nalini-j/Leetcode/tree/master/0137-single-number-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nalini-j/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/nalini-j/Leetcode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nalini-j/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/nalini-j/Leetcode/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/nalini-j/Leetcode/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/nalini-j/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/nalini-j/Leetcode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/nalini-j/Leetcode/tree/master/0338-counting-bits) |
