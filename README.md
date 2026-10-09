@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/nalini-j/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/nalini-j/Leetcode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/nalini-j/Leetcode/tree/master/0338-counting-bits) |
+| [0693-binary-number-with-alternating-bits](https://github.com/nalini-j/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [1486-xor-operation-in-an-array](https://github.com/nalini-j/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 ## Recursion
 |  |
