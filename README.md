@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/nalini-j/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/nalini-j/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Hash Table
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/nalini-j/Leetcode/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/nalini-j/Leetcode/tree/master/0292-nim-game) |
 | [1486-xor-operation-in-an-array](https://github.com/nalini-j/Leetcode/tree/master/1486-xor-operation-in-an-array) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/nalini-j/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nalini-j/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/nalini-j/Leetcode/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Bit Manipulation
@@ -106,10 +108,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/nalini-j/Leetcode/tree/master/0338-counting-bits) |
 | [0693-binary-number-with-alternating-bits](https://github.com/nalini-j/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [1486-xor-operation-in-an-array](https://github.com/nalini-j/Leetcode/tree/master/1486-xor-operation-in-an-array) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/nalini-j/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/nalini-j/Leetcode/tree/master/0231-power-of-two) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/nalini-j/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Stack
 |  |
 | ------- |
