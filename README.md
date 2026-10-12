@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/nalini-j/Leetcode/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/nalini-j/Leetcode/tree/master/0292-nim-game) |
 | [1486-xor-operation-in-an-array](https://github.com/nalini-j/Leetcode/tree/master/1486-xor-operation-in-an-array) |
+| [2469-convert-the-temperature](https://github.com/nalini-j/Leetcode/tree/master/2469-convert-the-temperature) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/nalini-j/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nalini-j/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/nalini-j/Leetcode/tree/master/4010-maximize-pair-strength-using-gcd) |
