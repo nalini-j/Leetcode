@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/nalini-j/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/nalini-j/Leetcode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nalini-j/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/nalini-j/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/nalini-j/Leetcode/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Binary Search
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/nalini-j/Leetcode/tree/master/0229-majority-element-ii) |
 | [0888-fair-candy-swap](https://github.com/nalini-j/Leetcode/tree/master/0888-fair-candy-swap) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/nalini-j/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/nalini-j/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -168,4 +170,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/nalini-j/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/nalini-j/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 <!---LeetCode Topics End-->
