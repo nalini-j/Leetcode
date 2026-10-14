@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/nalini-j/Leetcode/tree/master/2469-convert-the-temperature) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/nalini-j/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nalini-j/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/nalini-j/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/nalini-j/Leetcode/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Bit Manipulation
 |  |
@@ -170,5 +171,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/nalini-j/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/nalini-j/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/nalini-j/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 <!---LeetCode Topics End-->
