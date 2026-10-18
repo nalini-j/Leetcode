@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/nalini-j/Leetcode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/nalini-j/Leetcode/tree/master/0338-counting-bits) |
 | [0693-binary-number-with-alternating-bits](https://github.com/nalini-j/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
+| [1009-complement-of-base-10-integer](https://github.com/nalini-j/Leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/nalini-j/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/nalini-j/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Recursion
