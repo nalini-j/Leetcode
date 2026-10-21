@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2798-number-of-employees-who-met-the-target](https://github.com/nalini-j/Leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/nalini-j/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nalini-j/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2942-find-words-containing-character](https://github.com/nalini-j/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/nalini-j/Leetcode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nalini-j/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/nalini-j/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/nalini-j/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nalini-j/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/nalini-j/Leetcode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2942-find-words-containing-character](https://github.com/nalini-j/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3498-reverse-degree-of-a-string](https://github.com/nalini-j/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
