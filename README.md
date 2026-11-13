@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nalini-j/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/nalini-j/Leetcode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2942-find-words-containing-character](https://github.com/nalini-j/Leetcode/tree/master/2942-find-words-containing-character) |
+| [3114-latest-time-you-can-obtain-after-replacing-characters](https://github.com/nalini-j/Leetcode/tree/master/3114-latest-time-you-can-obtain-after-replacing-characters) |
 | [3498-reverse-degree-of-a-string](https://github.com/nalini-j/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3114-latest-time-you-can-obtain-after-replacing-characters](https://github.com/nalini-j/Leetcode/tree/master/3114-latest-time-you-can-obtain-after-replacing-characters) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/nalini-j/Leetcode/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Number Theory
 |  |
